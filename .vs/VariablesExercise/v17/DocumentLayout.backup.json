@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Harpe\\Desktop\\NET9\\Variables-Exercise\\",
+  "WorkspaceRootPath": "C:\\Users\\jakeb\\OneDrive\\Desktop\\repos\\Variables-Exercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1130E0AB-CDF4-46D6-A7FD-AEDD8C2EFF51}|VariablesExercise\\VariablesExercise.csproj|c:\\users\\harpe\\desktop\\net9\\variables-exercise\\variablesexercise\\variablesexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1130E0AB-CDF4-46D6-A7FD-AEDD8C2EFF51}|VariablesExercise\\VariablesExercise.csproj|solutionrelative:variablesexercise\\variablesexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1130E0AB-CDF4-46D6-A7FD-AEDD8C2EFF51}|VariablesExercise\\VariablesExercise.csproj|c:\\users\\jakeb\\onedrive\\desktop\\repos\\variables-exercise\\variablesexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1130E0AB-CDF4-46D6-A7FD-AEDD8C2EFF51}|VariablesExercise\\VariablesExercise.csproj|solutionrelative:variablesexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1130E0AB-CDF4-46D6-A7FD-AEDD8C2EFF51}|VariablesExercise\\VariablesExercise.csproj|c:\\users\\harpe\\desktop\\net9\\variables-exercise\\variablesexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1130E0AB-CDF4-46D6-A7FD-AEDD8C2EFF51}|VariablesExercise\\VariablesExercise.csproj|solutionrelative:variablesexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1130E0AB-CDF4-46D6-A7FD-AEDD8C2EFF51}|VariablesExercise\\VariablesExercise.csproj|c:\\users\\jakeb\\onedrive\\desktop\\repos\\variables-exercise\\variablesexercise\\variablesexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1130E0AB-CDF4-46D6-A7FD-AEDD8C2EFF51}|VariablesExercise\\VariablesExercise.csproj|solutionrelative:variablesexercise\\variablesexercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,23 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VariablesExercise",
-              "DocumentMoniker": "C:\\Users\\Harpe\\Desktop\\NET9\\Variables-Exercise\\VariablesExercise\\VariablesExercise.csproj",
+              "DocumentIndex": 1,
+              "Title": "VariablesExercise.csproj",
+              "DocumentMoniker": "C:\\Users\\jakeb\\OneDrive\\Desktop\\repos\\Variables-Exercise\\VariablesExercise\\VariablesExercise.csproj",
               "RelativeDocumentMoniker": "VariablesExercise\\VariablesExercise.csproj",
-              "ToolTip": "C:\\Users\\Harpe\\Desktop\\NET9\\Variables-Exercise\\VariablesExercise\\VariablesExercise.csproj",
+              "ToolTip": "C:\\Users\\jakeb\\OneDrive\\Desktop\\repos\\Variables-Exercise\\VariablesExercise\\VariablesExercise.csproj",
               "RelativeToolTip": "VariablesExercise\\VariablesExercise.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -43,16 +35,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Harpe\\Desktop\\NET9\\Variables-Exercise\\VariablesExercise\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jakeb\\OneDrive\\Desktop\\repos\\Variables-Exercise\\VariablesExercise\\Program.cs",
               "RelativeDocumentMoniker": "VariablesExercise\\Program.cs",
-              "ToolTip": "C:\\Users\\Harpe\\Desktop\\NET9\\Variables-Exercise\\VariablesExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\jakeb\\OneDrive\\Desktop\\repos\\Variables-Exercise\\VariablesExercise\\Program.cs",
               "RelativeToolTip": "VariablesExercise\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T22:14:24.11Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         },
